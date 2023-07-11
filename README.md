@@ -8,3 +8,4 @@ this app connects to a weather api that allows the user to search for a city and
 
 ## links 
 https://github.com/AlexWatabe9/Weather-API
+https://alexwatabe9.github.io/Weather-API/
